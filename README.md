@@ -28,7 +28,7 @@ you will learn 40% new from every website
 ## I also followed this and got 890 Marks
 
 ![alt text](https://github.com/Dushyantsingh-ds/ai-900_Exam_content/blob/main/Assets/Microsoft_Certified_Professional_Certificate.png)
-![alt text](https://github.com/Dushyantsingh-ds/ai-900_Exam_content/blob/main/Assets/azure-fundamentals-badge.png)
+![alt text](https://github.com/Dushyantsingh-ds/ai-900_Exam_content/blob/main/Assets/azure-administrator-associate-badge.png)
 
 ## Note : All the Reverse & Rights owned by its writer, Author and Orgnization.
 THis is only for Educational Porpose and Any body have any problem from my this Repose, so please infom me, i will remove that.
